@@ -3,7 +3,7 @@
 	@Codigo VARCHAR(250),
 	@Descripcion VARCHAR(250),
 	@Valor VARCHAR(250),
-	@Estado bit
+	@Estado BIT
 
 AS BEGIN
 SET NOCOUNT ON
